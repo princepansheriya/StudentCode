@@ -2,7 +2,7 @@ package com.kn.forloop;
 
 import java.util.Scanner;
 
-public class SumOfSquares {
+public class SumOfSquaresCalculator {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
