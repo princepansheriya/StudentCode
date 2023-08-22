@@ -3,7 +3,7 @@ package com.kn.forloop;
 import java.util.Scanner;
 
 //Write a program to print the sum of squares of n numbers.
-public class SquaresOfNumbers {
+public class PowerCalculator  {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
